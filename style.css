@@ -1,0 +1,30 @@
+header{
+    background-color: rgb(174, 225, 225);
+}
+
+li{
+  color: rgb(7, 11, 1);
+    text-decoration: none;
+}
+
+footer{
+    background-color: dodgerblue;
+}
+
+p,h1{
+    color: aqua;
+}
+h2{
+    color: cornflowerblue;
+}
+b{
+    color: hotpink;
+}
+a{
+    color: greenyellow;
+    text-decoration: none;
+}
+
+*{
+    background-color: black;
+}
